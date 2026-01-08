@@ -1,0 +1,162 @@
+\section{Task 1: Analyzing Behaviors of Vehicles}
+
+\subsection{Task 1.a: Statistics and Distribution Analysis on Workdays vs. Weekends}
+
+For each vehicle, trip data was aggregated on a daily basis, computing the number of trips per day, total distance traveled, total trip duration, and daily utilization percentage. Days were classified as Weekday (Monday-Friday) or Weekend (Saturday-Sunday) to identify behavioral differences between working days and leisure periods.
+
+\subsubsection{Statistical Summary and Distribution Analysis}
+
+The statistical analysis reveals significant differences between weekday and weekend mobility patterns. As shown in Table~\ref{tab:statistics}, vehicles travel considerably more on weekdays with an average daily distance of 391.02 km compared to 300.63 km on weekends (23\% reduction). Similarly, the average daily trip duration is 522.48 minutes on weekdays versus 429.42 minutes on weekends, indicating approximately 90 minutes less driving time during weekend days. The number of trips also decreases slightly from 13.83 trips per day on weekdays to 12.06 on weekends.
+
+\begin{table}[H]
+\centering
+\caption{Statistical Summary: Weekday vs Weekend Behavior}
+\label{tab:statistics}
+\small
+\begin{tabular}{lrrrr}
+\hline
+\textbf{Metric} & \textbf{Weekday Mean} & \textbf{Weekday Std} & \textbf{Weekend Mean} & \textbf{Weekend Std} \\
+\hline
+Total Distance (km) & 391.02 & 248.2 & 300.63 & 220.71 \\
+Trip Duration (min) & 522.48 & 218.75 & 429.42 & 259.79 \\
+Number of Trips & 13.83 & 10.04 & 12.06 & 10.44 \\
+\hline
+\end{tabular}
+\end{table}
+
+Interestingly, the standard deviations reveal that weekdays exhibit more consistent behavior (lower std for distance and duration), while weekends show higher variability (higher std for duration: 259.79 vs 218.75). This suggests that weekday trips follow more predictable patterns, likely due to regular commuting schedules and work-related routes, whereas weekend activities are more diverse and less structured.
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[b]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{Images/distance_distribution_daytype.png}
+        \caption{Daily distance distribution}
+        \label{fig:distance_dist}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{Images/duration_distribution_daytype.png}
+        \caption{Daily duration distribution}
+        \label{fig:duration_dist}
+    \end{subfigure}
+    \caption{Distribution comparisons between weekdays and weekends. The histograms show that weekdays have a right-shifted distribution for both distance and duration, with higher peaks indicating more concentrated activity patterns. Weekend distributions are more spread out with longer tails, reflecting diverse leisure activities.}
+    \label{fig:day_distributions}
+\end{figure}
+
+Figure~\ref{fig:day_distributions} illustrates the distributional differences through histograms with kernel density estimation (KDE). The distance distribution shows that weekday trips cluster around higher values with a pronounced peak, while weekend trips are more dispersed across lower distances. The duration distribution exhibits similar patterns, with weekdays showing a tighter concentration around longer durations and weekends displaying a broader spread toward shorter trip times. These patterns confirm that fleet vehicles are primarily utilized for regular, longer-distance work-related activities during weekdays, with reduced and more variable usage during weekends.
+
+\subsubsection{Vehicle Consistency Analysis}
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[b]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{Images/weekday_weekend_scatter.png}
+        \caption{Weekday vs Weekend scatter}
+        \label{fig:scatter_consistency}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{Images/cv_coefficent.png}
+        \caption{Coefficient of Variation distribution}
+        \label{fig:cv}
+    \end{subfigure}
+    \caption{Vehicle consistency analysis across day types. Left: scatter plot comparing average trip duration on weekdays vs weekends for each vehicle, with the red diagonal line representing perfect consistency. Most points lie below the diagonal, indicating longer weekday trips. Right: CV histogram showing consistency distribution across the fleet.}
+    \label{fig:consistency}
+\end{figure}
+
+To identify vehicles with consistent behavioral patterns, two complementary analyses were performed. Figure~\ref{fig:scatter_consistency} compares each vehicle's average trip duration on weekdays versus weekends. The red diagonal line represents perfect consistency (identical behavior on both day types). Most vehicles cluster below this line, confirming the fleet-wide tendency toward longer weekday trips. However, the vertical and horizontal spread reveals substantial inter-vehicle variation: some vehicles show minimal difference between day types (near the diagonal), while others exhibit dramatic differences (far from the diagonal).
+
+The Coefficient of Variation (CV = standard deviation / mean) quantifies consistency by measuring relative variability in trip duration across day types for each vehicle. Figure~\ref{fig:cv} displays the CV distribution across all vehicles. Low CV values (< 0.3) indicate highly consistent vehicles with predictable behavior patterns, likely serving regular routes such as daily commutes or scheduled delivery services. High CV values (> 0.7) reveal highly variable vehicles with unpredictable patterns, potentially indicating flexible usage for diverse purposes. The distribution shows that most vehicles fall in the moderate range (0.3-0.7), suggesting a mix of regular and occasional usage patterns within the fleet.
+
+\subsection{Task 1.b: Fraction of Trips by Road Type}
+
+For each vehicle, the fraction of trips using different road types was computed to understand route preferences and operational contexts. Due to the dataset's segment-based structure where trips can traverse multiple road types (e.g., a trip starting on urban roads and transitioning to expressways), we counted trips that \textit{use} each road type rather than classifying trips exclusively. This means a single trip using both urban and expressway roads is counted for both categories, and thus fractions can sum to more than 100\% per vehicle. This approach reveals actual road usage patterns and infrastructure dependencies rather than discrete trip classifications.
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[b]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{Images/avg_fraction_roadtype.png}
+        \caption{Average fraction per road type}
+        \label{fig:avg_fraction}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{Images/fraction_distribution_roadtype.png}
+        \caption{Fraction distribution across vehicles}
+        \label{fig:fraction_dist}
+    \end{subfigure}
+    \caption{Road type usage analysis. Left: average fraction shows urban roads (U) dominate with the highest usage, followed by expressways (E), highways (A), and unknown roads. Right: distribution plots reveal significant inter-vehicle heterogeneity, with some vehicles exclusively using certain road types while others show mixed patterns.}
+    \label{fig:road_fractions}
+\end{figure}
+
+Figure~\ref{fig:avg_fraction} reveals that urban roads (U) overwhelmingly dominate fleet operations, with the highest average fraction across all vehicles. This indicates that the fleet is primarily engaged in urban-centric activities such as city deliveries, local services, or intra-city commuting. Expressways (E) show moderate usage, suggesting that some vehicles perform inter-urban or suburban routes. Highways (A) exhibit the lowest average fraction, confirming that long-distance travel is relatively uncommon for this fleet, reinforcing the regional operational scope.
+
+The distribution analysis in Figure~\ref{fig:fraction_dist} reveals substantial heterogeneity across the vehicle fleet. The kernel density estimation (KDE) plots show that while most vehicles have high urban road fractions (peaks near 1.0), there is considerable variability for expressway and highway usage. Some vehicles have near-zero highway fractions (dedicated urban operations), while others show moderate highway usage (regional trips). This heterogeneity suggests diverse operational roles within the fleet, ranging from exclusively urban vehicles to mixed urban-regional vehicles, which will be further explored through clustering analysis in Task 1.c.
+
+\subsection{Task 1.c: Vehicle Clustering Based on Behavior}
+
+To categorize vehicles into distinct behavioral groups, K-means clustering was applied using features capturing both road usage patterns and operational intensity. The selected features included total distance traveled per road type (urban, expressway, highway, unknown) and average daily utilization per road type. All features were standardized using z-score normalization to ensure equal weighting across different scales.
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[b]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{Images/elbow_method.png}
+        \caption{Elbow method analysis}
+        \label{fig:elbow}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{Images/pca_clusters.png}
+        \caption{PCA projection of clusters}
+        \label{fig:pca_clusters}
+    \end{subfigure}
+    \caption{Cluster determination and visualization. Left: elbow method showing inertia decrease with increasing cluster count, with diminishing returns after k=4. Right: two-dimensional PCA projection revealing clear cluster separation with minimal overlap between groups.}
+    \label{fig:clustering_analysis}
+\end{figure}
+
+The optimal number of clusters was determined using the elbow method (Figure~\ref{fig:elbow}), which plots the within-cluster sum of squares (inertia) against the number of clusters. The curve shows a pronounced "elbow" at k=4, where the rate of inertia decrease begins to plateau, indicating that adding more clusters provides diminishing benefits. Thus, \textbf{4 clusters} were selected as the optimal balance between model complexity and cluster interpretability.
+
+Figure~\ref{fig:pca_clusters} visualizes the clusters in a two-dimensional space using Principal Component Analysis (PCA). The first two principal components explain a substantial portion of the total variance, and the plot reveals clear spatial separation between the four clusters with minimal overlap. This confirms that the clustering algorithm successfully identified distinct behavioral groups.
+
+Based on the cluster center analysis (not shown for space), the four clusters can be interpreted as follows: \textbf{Cluster 0} represents urban-centric vehicles with high urban road usage and low expressway/highway distances, likely used for city deliveries and local services. \textbf{Cluster 1} contains long-distance travelers with significant expressway and highway usage, indicating regional or inter-city operations. \textbf{Cluster 2} comprises mixed-use vehicles with balanced usage across all road types, suggesting flexible multi-purpose operations. \textbf{Cluster 3} identifies low-activity vehicles with minimal overall usage across all road types, potentially representing occasional-use or spare vehicles in the fleet.
+
+\section{Task 2: EV Model Selection and Evaluation Metrics}
+
+\subsection{Selected EV Models}
+
+Eight different electric vehicle models were selected from various categories to represent different use cases and price points:
+
+\begin{table}[H]
+\centering
+\caption{Selected Electric Vehicle Models}
+\label{tab:ev_models}
+\small
+\begin{tabular}{llrr}
+\hline
+\textbf{Model} & \textbf{Category} & \textbf{Battery (kWh)} & \textbf{Consumption (Wh/km)} \\
+\hline
+Renault Twingo E-Tech & Mini & 27.5 & 128 \\
+Fiat 500e Hatchback & Compact & 37.3 & 138 \\
+CUPRA Born 170 kW & Medium & 77.0 & 150 \\
+BYD SEAL RWD & Large & 82.5 & 149 \\
+BMW iX xDrive40 & Executive & 71.0 & 175 \\
+Lotus Eletre S & Luxury & 109.0 & 196 \\
+Volkswagen ID. Buzz Pro & Passenger Van & 77.0 & 200 \\
+Audi e-tron GT RS & Sport & 85.0 & 185 \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsection{Evaluation Metrics Defined}
+
+\subsection{Evaluation Metrics}
+
+Metrics defined include feasibility percentage (primary metric), battery performance (average SoC, minimum SoC, critical level counts), charging behavior (total events, time, fast/slow ratio), and energy efficiency (total consumption, rate per km). The charging strategy uses fast charging (DC) if SoC $<$ 20\% or parking time $<$ 2 hours with SoC $<$ 80\%, otherwise slow charging (AC).
