@@ -1,0 +1,16 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+SFM1,GTT_F,SFM1,Chieri-Rivarolo, ,2,http://www.sfmtorino.it/orari/,FF9900, 
+SFM1 Pont,GTT_F,SFM1,Rivarolo-Pont, ,2,http://www.sfmtorino.it/orari/,FF9900, 
+SFM2,FS,SFM2,Pinerolo-Chivasso, ,2,http://www.sfmtorino.it/orari/,00CCFF, 
+SFM2 Bus,FS,FM2Bus,Bus sostitutivi linea Pinerolo-Chivasso, ,3,http://www.sfmtorino.it/orari/,00CCFF, 
+SFM3 Bardonecchia,FS,SFM3,Torino-Bardonecchia, ,2,http://www.sfmtorino.it/orari/,99FF00, 
+SFM3 Bus,FS,FM3Bus,Bus sostitutivi linea Torino-Modane, ,3,http://www.sfmtorino.it/orari/,99FF00, 
+SFM3 Susa,FS,SFM3,Torino-Susa, ,2,http://www.sfmtorino.it/orari/,99FF00, 
+SFM4,FS,SFM4,Torino-Bra, ,2,http://www.sfmtorino.it/orari/,FF0000, 
+SFM4 Bus,FS,FM4Bus,Bus sostitutivi linea Torino-Bra, ,3,http://www.sfmtorino.it/orari/,FF0000, 
+SFM6,FS,SFM6,Torino-Asti, ,2,http://www.sfmtorino.it/orari/,800000,FFFFFF
+SFM7,FS,SFM7,Torino-Fossano, ,2,http://www.sfmtorino.it/orari/,FFCC00, 
+SFMA,GTT_F,SFMA,Torino Dora - Germagnano, ,2,http://www.sfmtorino.it/orari/,00CCFF, 
+SFMA Ceres,GTT_F,SFMA,Germagnano-Ceres, ,2,http://www.sfmtorino.it/orari/,00CCFF, 
+SFMB,FS,SFMB,Cavallermaggiore-Bra-Alba, ,2,http://www.sfmtorino.it/orari/,FF0000, 
+SFMB Bus,FS,FMBBus,Bus sostitutivi linea Cavallermaggiore-Bra-Alba, ,3,http://www.sfmtorino.it/orari/,FF0000, 

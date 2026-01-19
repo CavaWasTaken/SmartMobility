@@ -1,0 +1,483 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,shape_id
+SFM1,FER5-A,SFM_4196,Torino Lingotto,4196,1,SFM1 Rivarolo-Lingotto A
+SFM1,FER5-A,SFM_4198,Torino Lingotto,4198,1,SFM1 Rivarolo-Lingotto A
+SFM1,FER5-NA,SFM_4134/35,Rivarolo,4134/35,0,SFM1 Rivarolo-Chieri R
+SFM1,FER5-NA,SFM_4138/39,Rivarolo,4138/39,0,SFM1 Rivarolo-Chieri R
+SFM1,FER5-NA,SFM_4142/43,Rivarolo,4142/43,0,SFM1 Rivarolo-Chieri R
+SFM1,FER5-NA,SFM_4178/79,Chieri,4178/79,1,SFM1 Rivarolo-Chieri A
+SFM1,FER5-NA,SFM_4182/83,Chieri,4182/83,1,SFM1 Rivarolo-Chieri A
+SFM1,FER5-NA,SFM_4186/87,Chieri,4186/87,1,SFM1 Rivarolo-Chieri A
+SFM1,FER5-NA,SFM_4197,Rivarolo,4197,0,SFM1 Rivarolo-Lingotto R
+SFM1,FER5-NA,SFM_4199,Rivarolo,4199,0,SFM1 Rivarolo-Lingotto R
+SFM1,FER6,SFM_4102/03,Rivarolo,4102/03,0,SFM1 Rivarolo-Chieri R
+SFM1,FER6,SFM_4116/17,Torino Stura,4116/17,0,SFM1 Stura-Chieri R
+SFM1,FER6,SFM_4120/21,Rivarolo,4120/21,0,SFM1 Rivarolo-Chieri R
+SFM1,FER6,SFM_4124/25,Rivarolo,4124/25,0,SFM1 Rivarolo-Chieri R
+SFM1,FER6,SFM_4128/29,Rivarolo,4128/29,0,SFM1 Rivarolo-Chieri R
+SFM1,FER6,SFM_4132/33,Rivarolo,4132/33,0,SFM1 Rivarolo-Chieri R
+SFM1,FER6,SFM_4140/41,Rivarolo,4140/41,0,SFM1 Rivarolo-Chieri R
+SFM1,FER6,SFM_4148/49,Chieri,4148/49,1,SFM1 Rivarolo-Chieri A
+SFM1,FER6,SFM_4156/57,Chieri,4156/57,1,SFM1 Rivarolo-Chieri A
+SFM1,FER6,SFM_4162/63,Chieri,4162/63,1,SFM1 Rivarolo-Chieri A
+SFM1,FER6,SFM_4166/67,Chieri,4166/67,1,SFM1 Stura-Chieri A
+SFM1,FER6,SFM_4168/69,Chieri,4168/69,1,SFM1 Stura-Chieri A
+SFM1,FER6,SFM_4172/73,Chieri,4172/73,1,SFM1 Rivarolo-Chieri A
+SFM1,FER6,SFM_4176/77,Chieri,4176/77,1,SFM1 Rivarolo-Chieri A
+SFM1,FER6,SFM_4184/85,Chieri,4184/85,1,SFM1 Rivarolo-Chieri A
+SFM1,FER6A,SFM_4110/11,Torino Stura,4110/11,0,SFM1 Stura-Chieri R
+SFM1,FER6-A,SFM_4100/01,Rivarolo,4100/01,0,SFM1 Rivarolo-Chieri R
+SFM1,FER6-A,SFM_4104/05,Rivarolo,4104/05,0,SFM1 Rivarolo-Chieri R
+SFM1,FER6-A,SFM_4108/09,Rivarolo,4108/09,0,SFM1 Rivarolo-Chieri R
+SFM1,FER6-A,SFM_4112/13,Rivarolo,4112/13,0,SFM1 Rivarolo-Chieri R
+SFM1,FER6-A,SFM_4114/15,Torino Stura,4114/15,0,SFM1 Stura-Chieri R
+SFM1,FER6-A,SFM_4147,Chieri,4147,1,SFM1 Lingotto-Chieri A
+SFM1,FER6-A,SFM_4150/51,Chieri,4150/51,1,SFM1 Rivarolo-Chieri A
+SFM1,FER6-A,SFM_4154/55,Chieri,4154/55,1,SFM1 Rivarolo-Chieri A
+SFM1,FER6-A,SFM_4158/59,Chieri,4158/59,1,SFM1 Rivarolo-Chieri A
+SFM1,FER6-A,SFM_4190/91,Chieri,4190/91,1,SFM1 Rivarolo-Chieri A
+SFM1,FER6-NA,SFM_4146,Torino Lingotto,4146,0,SFM1 Lingotto-Chieri R
+SFM1,FEST,SFM_4118/19,Rivarolo,4118/19,0,SFM1 Rivarolo-Chieri R
+SFM1,FEST,SFM_4164/65,Chieri,4164/65,1,SFM1 Rivarolo-Chieri A
+SFM1,GIOR,SFM_4106/07,Rivarolo,4106/07,0,SFM1 Rivarolo-Chieri R
+SFM1,GIOR,SFM_4122/23,Rivarolo,4122/23,0,SFM1 Rivarolo-Chieri R
+SFM1,GIOR,SFM_4126/27,Rivarolo,4126/27,0,SFM1 Rivarolo-Chieri R
+SFM1,GIOR,SFM_4130/31,Rivarolo,4130/31,0,SFM1 Rivarolo-Chieri R
+SFM1,GIOR,SFM_4136/37,Rivarolo,4136/37,0,SFM1 Rivarolo-Chieri R
+SFM1,GIOR,SFM_4144/45,Rivarolo,4144/45,0,SFM1 Rivarolo-Chieri R
+SFM1,GIOR,SFM_4152/53,Chieri,4152/53,1,SFM1 Rivarolo-Chieri A
+SFM1,GIOR,SFM_4160/61,Chieri,4160/61,1,SFM1 Rivarolo-Chieri A
+SFM1,GIOR,SFM_4170/71,Chieri,4170/71,1,SFM1 Rivarolo-Chieri A
+SFM1,GIOR,SFM_4174/75,Chieri,4174/75,1,SFM1 Rivarolo-Chieri A
+SFM1,GIOR,SFM_4180/81,Chieri,4180/81,1,SFM1 Rivarolo-Chieri A
+SFM1,GIOR,SFM_4188/89,Chieri,4188/89,1,SFM1 Rivarolo-Chieri A
+SFM1 Pont,FER6-NA,SFM_700,Rivarolo,700,1,SFM1 Pont-Rivarolo A
+SFM1 Pont,FER6-NA,SFM_701,Pont Canavese,701,0,SFM1 Pont-Rivarolo R
+SFM1 Pont,FER6-NA,SFM_702,Rivarolo,702,1,SFM1 Pont-Rivarolo A
+SFM1 Pont,FER6-NA,SFM_703,Pont Canavese,703,0,SFM1 Pont-Rivarolo R
+SFM1 Pont,FER6-NA,SFM_704,Rivarolo,704,1,SFM1 Pont-Rivarolo A
+SFM1 Pont,FER6-NA,SFM_705,Pont Canavese,705,0,SFM1 Pont-Rivarolo R
+SFM1 Pont,FER6-NA,SFM_706,Rivarolo,706,1,SFM1 Pont-Rivarolo A
+SFM1 Pont,FER6-NA,SFM_707,Pont Canavese,707,0,SFM1 Pont-Rivarolo R
+SFM2,FER6,SFM_4200/01,Chivasso,4200/01,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6,SFM_4203,Chivasso,4203,0,SFM2 Lingotto-Chivasso A
+SFM2,FER6,SFM_4204/05,Chivasso,4204/05,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6,SFM_4212/13,Chivasso,4212/13,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6,SFM_4218/19,Chivasso,4218/19,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6,SFM_4222/23,Chivasso,4222/23,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6,SFM_4228/29,Chivasso,4228/29,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6,SFM_4232/33,Chivasso,4232/33,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6,SFM_4238/39,Chivasso,4238/39,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6,SFM_4250/51,Pinerolo,4250/51,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6,SFM_4254/55,Pinerolo,4254/55,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6,SFM_4262/63,Pinerolo,4262/63,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6,SFM_4266/67,Pinerolo,4266/67,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6,SFM_4270/71,Pinerolo,4270/71,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6,SFM_4278/79,Pinerolo,4278/79,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6,SFM_4282/83,Pinerolo,4282/83,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6,SFM_4290/91,Pinerolo,4290/91,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6,SFM_4294/95,Pinerolo,4294/95,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6,SFM_4544/45,Chivasso,4544/45,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6-A,SFM_4206/07,Chivasso,4206/07,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6-A,SFM_4210/11,Chivasso,4210/11,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6-A,SFM_4214/15,Chivasso,4214/15,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6-A,SFM_4226/27,Chivasso,4226/27,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6-A,SFM_4236/37,Chivasso,4236/37,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6-A,SFM_4240/41,Chivasso,4240/41,0,SFM2 Pinerolo-Chivasso A
+SFM2,FER6-A,SFM_4248,Torino Lingotto,4248,1,SFM2 Lingotto-Chivasso R
+SFM2,FER6-A,SFM_4249,Chivasso,4249,0,SFM2 Lingotto-Chivasso A
+SFM2,FER6-A,SFM_4252/53,Pinerolo,4252/53,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6-A,SFM_4256/57,Pinerolo,4256/57,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6-A,SFM_4260/61,Pinerolo,4260/61,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6-A,SFM_4272/73,Pinerolo,4272/73,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6-A,SFM_4276,Torino Lingotto,4276,1,SFM2 Lingotto-Chivasso R
+SFM2,FER6-A,SFM_4284/85,Pinerolo,4284/85,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6-A,SFM_4288/89,Pinerolo,4288/89,1,SFM2 Pinerolo-Chivasso R
+SFM2,FER6-A,SFM_4296,Torino Lingotto,4296,1,SFM2 Lingotto-Chivasso R
+SFM2,FEST,SFM_4298/99,Pinerolo,4298/99,1,SFM2 Pinerolo-Chivasso R
+SFM2,FEST,SFM_4546/47,Chivasso,4546/47,0,SFM2 Pinerolo-Chivasso A
+SFM2,GIOR,SFM_4208/09,Chivasso,4208/09,0,SFM2 Pinerolo-Chivasso A
+SFM2,GIOR,SFM_4216/17,Chivasso,4216/17,0,SFM2 Pinerolo-Chivasso A
+SFM2,GIOR,SFM_4220/21,Chivasso,4220/21,0,SFM2 Pinerolo-Chivasso A
+SFM2,GIOR,SFM_4224/25,Chivasso,4224/25,0,SFM2 Pinerolo-Chivasso A
+SFM2,GIOR,SFM_4230/31,Chivasso,4230/31,0,SFM2 Pinerolo-Chivasso A
+SFM2,GIOR,SFM_4234/35,Chivasso,4234/35,0,SFM2 Pinerolo-Chivasso A
+SFM2,GIOR,SFM_4242/43,Chivasso,4242/43,0,SFM2 Pinerolo-Chivasso A
+SFM2,GIOR,SFM_4258/59,Pinerolo,4258/59,1,SFM2 Pinerolo-Chivasso R
+SFM2,GIOR,SFM_4264/65,Pinerolo,4264/65,1,SFM2 Pinerolo-Chivasso R
+SFM2,GIOR,SFM_4268/69,Pinerolo,4268/69,1,SFM2 Pinerolo-Chivasso R
+SFM2,GIOR,SFM_4274/75,Pinerolo,4274/75,1,SFM2 Pinerolo-Chivasso R
+SFM2,GIOR,SFM_4280/81,Pinerolo,4280/81,1,SFM2 Pinerolo-Chivasso R
+SFM2,GIOR,SFM_4286/87,Pinerolo,4286/87,1,SFM2 Pinerolo-Chivasso R
+SFM2,GIOR,SFM_4292/93,Pinerolo,4292/93,1,SFM2 Pinerolo-Chivasso R
+SFM2 Bus,FER5-A,sfm_RP070,Torino Porta Nuova,RP070,0,Bus Pinerolo-TorinoPN A
+SFM2 Bus,FER6,sfm_RP112,Torino Porta Nuova,RP112,0,Bus Pinerolo-TorinoPN A
+SFM2 Bus,FER6,sfm_RP117,Pinerolo,RP117,1,Bus Pinerolo-TorinoPN R
+SFM2 Bus,FER6,sfm_RP330,Torino Porta Nuova,RP330,0,Bus Pinerolo-TorinoPN A
+SFM2 Bus,FEST,sfm_RP119R,Torino Porta Nuova,RP119R,0,Bus Pinerolo-TorinoPN A
+SFM2 Bus,GIOR,sfm_RP119,Pinerolo,RP119,1,Bus Pinerolo-TorinoPN R
+SFM3 Bardonecchia,FER6,SFM_10300,Bardonecchia,10300,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10301,Torino Porta Nuova,10301,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6,SFM_10302,Bardonecchia,10302,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10303,Torino Porta Nuova,10303,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6,SFM_10304,Bardonecchia,10304,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10305,Torino Porta Nuova,10305,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6,SFM_10306,Bardonecchia,10306,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10307,Torino Porta Nuova,10307,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6,SFM_10308,Bardonecchia,10308,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10309,Torino Porta Nuova,10309,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6,SFM_10310,Bardonecchia,10310,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10312,Bardonecchia,10312,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10313,Torino Porta Nuova,10313,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6,SFM_10314,Bardonecchia,10314,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10316,Bardonecchia,10316,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10318,Bardonecchia,10318,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10319,Torino Porta Nuova,10319,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6,SFM_10320,Bardonecchia,10320,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10321,Torino Porta Nuova,10321,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6,SFM_10322,Bardonecchia,10322,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10323,Torino Porta Nuova,10323,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6,SFM_10325,Torino Porta Nuova,10325,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6,SFM_10326,Bardonecchia,10326,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10328,Bardonecchia,10328,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10330,Bardonecchia,10330,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10331,Torino Porta Nuova,10331,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6,SFM_10332,Bardonecchia,10332,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10334,Bardonecchia,10334,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6,SFM_10335,Torino Porta Nuova,10335,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6,SFM_4328,Bardonecchia,4328,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FER6Expo,SFM_33011,Torino Porta Nuova,33011,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6Expo,SFM_33017,Torino Porta Nuova,33017,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6Expo,SFM_33027,Torino Porta Nuova,33027,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6Expo,SFM_33033,Torino Porta Nuova,33033,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6Expo,SFM_4,Torino Porta Nuova,4,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6NoExpo,SFM_10311,Torino Porta Nuova,10311,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6NoExpo,SFM_10315,Torino Porta Nuova,10315,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6NoExpo,SFM_10317,Torino Porta Nuova,10317,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6NoExpo,SFM_10327,Torino Porta Nuova,10327,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6NoExpo,SFM_10329,Torino Porta Nuova,10329,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FER6NoExpo,SFM_10333,Torino Porta Nuova,10333,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FEST,SFM_10340,Bardonecchia,10340,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FEST,SFM_10341,Torino Porta Nuova,10341,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FEST,SFM_10342,Bardonecchia,10342,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FEST,SFM_10343,Torino Porta Nuova,10343,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FEST,SFM_10345,Torino Porta Nuova,10345,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FEST,SFM_10346,Bardonecchia,10346,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FEST,SFM_10347,Torino Porta Nuova,10347,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FEST,SFM_10348,Bardonecchia,10348,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FEST,SFM_10349,Torino Porta Nuova,10349,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FEST,SFM_10351,Torino Porta Nuova,10351,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FEST,SFM_10353,Torino Porta Nuova,10353,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FEST,SFM_10355,Torino Porta Nuova,10355,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FEST,SFM_10356,Bardonecchia,10356,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FEST,SFM_10357,Torino Porta Nuova,10357,0,SFM3 BARDONECCHIA-TORINO A
+SFM3 Bardonecchia,FESTExpo,SFM_10358,Bardonecchia,10358,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FESTExpo,SFM_10360,Bardonecchia,10360,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FESTExpo,SFM_10362,Bardonecchia,10362,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FESTExpo,SFM_10364,Bardonecchia,10364,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FESTNoExpo,SFM_10344,Bardonecchia,10344,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FESTNoExpo,SFM_10350,Bardonecchia,10350,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FESTNoExpo,SFM_10352,Bardonecchia,10352,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bardonecchia,FESTNoExpo,SFM_10354,Bardonecchia,10354,1,SFM3 BARDONECCHIA-TORINO R
+SFM3 Bus,FER5,sfm_RP739,Bussoleno,RP739,0,Bus Bussoleno-Susa R
+SFM3 Bus,FER5,sfm_RP756,Susa,RP756,1,Bus Bussoleno-Susa A
+SFM3 Bus,FER5,sfm_RP758,Susa,RP758,1,Bus Bussoleno-Susa A
+SFM3 Bus,FER6,sfm_RP078,Bardonecchia,RP078,1,Bus Torino-Susa-Bardonecchia A
+SFM3 Bus,FER6,sfm_RP720,Modane,RP720,1,Bus Oulx-Modane A
+SFM3 Bus,FER6,sfm_RP725,Oulx,RP725,0,Bus Oulx-Modane R
+SFM3 Bus,FER6,sfm_RP741,Bussoleno,RP741,0,Bus Bussoleno-Susa R
+SFM3 Bus,FER6,sfm_RP780,Modane,RP780,1,Bus Bardonecchia-Modane A
+SFM3 Bus,FER6,sfm_RP781,Bardonecchia,RP781,0,Bus Bardonecchia-Modane R
+SFM3 Bus,FER6,sfm_RP784,Modane,RP784,1,Bus Bardonecchia-Modane A
+SFM3 Bus,FER6,sfm_RP785,Bardonecchia,RP785,0,Bus Bardonecchia-Modane R
+SFM3 Bus,FER6,sfm_RP788,Modane,RP788,1,Bus Bardonecchia-Modane A
+SFM3 Bus,FER6,sfm_RP789,Bardonecchia,RP789,0,Bus Bardonecchia-Modane R
+SFM3 Bus,FER6,sfm_RP790,Modane,RP790,1,Bus Bardonecchia-Modane A
+SFM3 Bus,FER6,sfm_RP791,Bardonecchia,RP791,0,Bus Bardonecchia-Modane R
+SFM3 Bus,FEST,sfm_RP721,Oulx,RP721,0,Bus Oulx-Modane R
+SFM3 Bus,FEST,sfm_RP722,Modane,RP722,1,Bus Oulx-Modane A
+SFM3 Bus,FEST,sfm_RP723,Oulx,RP723,0,Bus Oulx-Modane R
+SFM3 Bus,FEST,sfm_RP724,Modane,RP724,1,Bus Oulx-Modane A
+SFM3 Bus,FEST,sfm_RP782,Modane,RP782,1,Bus Bardonecchia-Modane A
+SFM3 Bus,FEST,sfm_RP783,Bardonecchia,RP783,0,Bus Bardonecchia-Modane R
+SFM3 Bus,FEST,sfm_RP786,Modane,RP786,1,Bus Bardonecchia-Modane A
+SFM3 Bus,FEST,sfm_RP787,Bardonecchia,RP787,0,Bus Bardonecchia-Modane R
+SFM3 Bus,FEST,sfm_RP792,Modane,RP792,1,Bus Bardonecchia-Modane A
+SFM3 Bus,FEST,sfm_RP795,Bardonecchia,RP795,0,Bus Bardonecchia-Modane R
+SFM3 Bus,GIOR,sfm_RP076,Susa,RP076,1,Bus Bussoleno-Susa A
+SFM3 Bus,SCOLG5,sfm_RP742,Oulx,RP742,1,Bus S.Ambrogio-Oulx A
+SFM3 Bus,SCOLG5,sfm_RP750,Susa,RP750,1,Bus Bussoleno-Susa A
+SFM3 Bus,SCOLG5n1,sfm_RP738,Oulx,RP738,1,Bus S.Ambrogio-Oulx A
+SFM3 Bus,SCOLG5n1,sfm_RP740,Oulx,RP740,1,Bus S.Antonino-Oulx A
+SFM3 Bus,SCOLG5n1,sfm_RP743,S.Antonino-Vaie,RP743,0,Bus S.Antonino-Oulx R
+SFM3 Bus,SCOLG5n1,sfm_RP745,S.Ambrogio,RP745,0,Bus S.Ambrogio-Oulx R
+SFM3 Susa,FER5-A,SFM_4004,Bussoleno,4004,1,SFM3 BUSSOLENO-TORINO R
+SFM3 Susa,FER5-A,SFM_4309,Torino Porta Nuova,4309,0,SFM3 BUSSOLENO-TORINO A
+SFM3 Susa,FER6,SFM_4301,Torino Porta Nuova,4301,0,SFM3 BUSSOLENO-TORINO A
+SFM3 Susa,FER6,SFM_4302,Susa,4302,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6,SFM_4304,Susa,4304,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6,SFM_4305,Torino Porta Nuova,4305,0,SFM3 SUSA-TORINO A
+SFM3 Susa,FER6,SFM_4307,Torino Porta Nuova,4307,0,SFM3 SUSA-TORINO A
+SFM3 Susa,FER6,SFM_4308,Susa,4308,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6,SFM_4311,Torino Porta Nuova,4311,0,SFM3 SUSA-TORINO A
+SFM3 Susa,FER6,SFM_4315,Torino Porta Nuova,4315,0,SFM3 SUSA-TORINO A
+SFM3 Susa,FER6,SFM_4316,Susa,4316,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6,SFM_4319,Torino Porta Nuova,4319,0,SFM3 SUSA-TORINO A
+SFM3 Susa,FER6,SFM_4320,Susa,4320,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6,SFM_4323,Torino Porta Nuova,4323,0,SFM3 SUSA-TORINO A
+SFM3 Susa,FER6,SFM_4327,Torino Porta Nuova,4327,0,SFM3 SUSA-TORINO A
+SFM3 Susa,FER6,SFM_4331,Torino Porta Nuova,4331,0,SFM3 SUSA-TORINO A
+SFM3 Susa,FER6,SFM_4335,Torino Porta Nuova,4335,0,SFM3 SUSA-TORINO A
+SFM3 Susa,FER6,SFM_4338,Susa,4338,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6,SFM_4339,Torino Porta Nuova,4339,0,SFM3 SUSA-TORINO A
+SFM3 Susa,FER6Expo,SFM_4342,Susa,4342,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6Expo,SFM_4344,Susa,4344,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6Expo,SFM_4350,Susa,4350,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6Expo,SFM_4354,Susa,4354,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6NoExpo,SFM_4312,Susa,4312,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6NoExpo,SFM_4324,Susa,4324,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6NoExpo,SFM_4330,Susa,4330,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FER6NoExpo,SFM_4334,Susa,4334,1,SFM3 SUSA-TORINO R
+SFM3 Susa,FEST,SFM_4303,Torino Porta Nuova,4303,0,SFM3 SUSA-TORINO A
+SFM3 Susa,GIOR,SFM_4306,Susa,4306,1,SFM3 SUSA-TORINO R
+SFM3 Susa,GIOR,SFM_4310,Susa,4310,1,SFM3 SUSA-TORINO R
+SFM3 Susa,GIOR,SFM_4313,Torino Porta Nuova,4313,0,SFM3 SUSA-TORINO A
+SFM3 Susa,GIOR,SFM_4314,Susa,4314,1,SFM3 SUSA-TORINO R
+SFM3 Susa,GIOR,SFM_4317,Torino Porta Nuova,4317,0,SFM3 SUSA-TORINO A
+SFM3 Susa,GIOR,SFM_4318,Susa,4318,1,SFM3 SUSA-TORINO R
+SFM3 Susa,GIOR,SFM_4321,Torino Porta Nuova,4321,0,SFM3 SUSA-TORINO A
+SFM3 Susa,GIOR,SFM_4322,Susa,4322,1,SFM3 SUSA-TORINO R
+SFM3 Susa,GIOR,SFM_4325,Torino Porta Nuova,4325,0,SFM3 SUSA-TORINO A
+SFM3 Susa,GIOR,SFM_4326,Susa,4326,1,SFM3 SUSA-TORINO R
+SFM3 Susa,GIOR,SFM_4329,Torino Porta Nuova,4329,0,SFM3 SUSA-TORINO A
+SFM3 Susa,GIOR,SFM_4332,Susa,4332,1,SFM3 SUSA-TORINO R
+SFM3 Susa,GIOR,SFM_4333,Torino Porta Nuova,4333,0,SFM3 SUSA-TORINO A
+SFM3 Susa,GIOR,SFM_4336,Susa,4336,1,SFM3 SUSA-TORINO R
+SFM3 Susa,GIOR,SFM_4337,Torino Porta Nuova,4337,0,SFM3 SUSA-TORINO A
+SFM3 Susa,GIOR,SFM_4340,Bussoleno,4340,1,SFM3 BUSSOLENO-TORINO R
+SFM3 Susa,GIOR,SFM_4341,Torino Porta Nuova,4341,0,SFM3 SUSA-TORINO A
+SFM4,FER5-A,SFM_4434,Torino Porta Nuova,4434,0,SFM4 Bra-TorinoPN A
+SFM4,FER5-A,SFM_4435,Bra,4435,1,SFM4 Bra-TorinoPN R
+SFM4,FER6,SFM_4402/03,Torino Stura,4402/03,0,SFM4 Bra-Stura A
+SFM4,FER6,SFM_4406/07,Torino Stura,4406/07,0,SFM4 Bra-Stura A
+SFM4,FER6,SFM_4410/11,Torino Stura,4410/11,0,SFM4 Bra-Stura A
+SFM4,FER6,SFM_4414/15,Torino Stura,4414/15,0,SFM4 Bra-Stura A
+SFM4,FER6,SFM_4418/19,Torino Stura,4418/19,0,SFM4 Bra-Stura A
+SFM4,FER6,SFM_4422/23,Torino Stura,4422/23,0,SFM4 Bra-Stura A
+SFM4,FER6,SFM_4424,Torino Porta Nuova,4424,0,SFM4 Bra-TorinoPN A
+SFM4,FER6,SFM_4428/29,Torino Stura,4428/29,0,SFM4 Bra-Stura A
+SFM4,FER6,SFM_4438/39,Bra,4438/39,1,SFM4 Bra-Stura R
+SFM4,FER6,SFM_4442/43,Bra,4442/43,1,SFM4 Bra-Stura R
+SFM4,FER6,SFM_4446/47,Bra,4446/47,1,SFM4 Bra-Stura R
+SFM4,FER6,SFM_4450/51,Bra,4450/51,1,SFM4 Bra-Stura R
+SFM4,FER6,SFM_4454/55,Bra,4454/55,1,SFM4 Bra-Stura R
+SFM4,FER6,SFM_4458/59,Bra,4458/59,1,SFM4 Bra-Stura R
+SFM4,FER6,SFM_4462/63,Bra,4462/63,1,SFM4 Bra-Stura R
+SFM4,FER6,SFM_4466/67,Bra,4466/67,1,SFM4 Bra-Stura R
+SFM4,GIOR,SFM_4400/01,Torino Stura,4400/01,0,SFM4 Bra-Stura A
+SFM4,GIOR,SFM_4404/05,Torino Stura,4404/05,0,SFM4 Bra-Stura A
+SFM4,GIOR,SFM_4408/09,Torino Stura,4408/09,0,SFM4 Bra-Stura A
+SFM4,GIOR,SFM_4412/13,Torino Stura,4412/13,0,SFM4 Bra-Stura A
+SFM4,GIOR,SFM_4416/17,Torino Stura,4416/17,0,SFM4 Bra-Stura A
+SFM4,GIOR,SFM_4420/21,Torino Stura,4420/21,0,SFM4 Bra-Stura A
+SFM4,GIOR,SFM_4426/27,Torino Stura,4426/27,0,SFM4 Bra-Stura A
+SFM4,GIOR,SFM_4430/31,Torino Stura,4430/31,0,SFM4 Bra-Stura A
+SFM4,GIOR,SFM_4440/41,Bra,4440/41,1,SFM4 Bra-Stura R
+SFM4,GIOR,SFM_4444/45,Bra,4444/45,1,SFM4 Bra-Stura R
+SFM4,GIOR,SFM_4448/49,Bra,4448/49,1,SFM4 Bra-Stura R
+SFM4,GIOR,SFM_4452/53,Bra,4452/53,1,SFM4 Bra-Stura R
+SFM4,GIOR,SFM_4456/57,Bra,4456/57,1,SFM4 Bra-Stura R
+SFM4,GIOR,SFM_4460/61,Bra,4460/61,1,SFM4 Bra-Stura R
+SFM4,GIOR,SFM_4464/65,Bra,4464/65,1,SFM4 Bra-Stura R
+SFM4,GIOR,SFM_4468/69,Bra,4468/69,1,SFM4 Bra-Stura R
+SFM4 Bus,FER5,sfm_RP163,Bra,RP163,1,Bus Bra-Carmagnola R
+SFM4 Bus,FER5,sfm_RP164,Carmagnola,RP164,0,Bus Bra-Carmagnola A
+SFM4 Bus,FER6,sfm_RP185,Bra,RP185,1,Bus Bra-Carmagnola R
+SFM4 Bus,FER6,sfm_RP186,Carmagnola,RP186,0,Bus Bra-Carmagnola A
+SFM6,FER6,SFM_4602/03,Torino Stura,4602/03,0,SFM6 Stura-Asti R
+SFM6,FER6,SFM_4606/07,Torino Stura,4606/07,0,SFM6 Stura-Asti R
+SFM6,FER6,SFM_4610/11,Torino Stura,4610/11,0,SFM6 Stura-Asti R
+SFM6,FER6,SFM_4614/15,Torino Stura,4614/15,0,SFM6 Stura-Asti R
+SFM6,FER6,SFM_4618/19,Torino Stura,4618/19,0,SFM6 Stura-Asti R
+SFM6,FER6,SFM_4622/23,Torino Stura,4622/23,0,SFM6 Stura-Asti R
+SFM6,FER6,SFM_4626/27,Torino Stura,4626/27,0,SFM6 Stura-Asti R
+SFM6,FER6,SFM_4638/39,Asti,4638/39,1,SFM6 Stura-Asti A
+SFM6,FER6,SFM_4642/43,Asti,4642/43,1,SFM6 Stura-Asti A
+SFM6,FER6,SFM_4646/48,Asti,4646/48,1,SFM6 Stura-Asti A
+SFM6,FER6,SFM_4650/51,Asti,4650/51,1,SFM6 Stura-Asti A
+SFM6,FER6,SFM_4654/55,Asti,4654/55,1,SFM6 Stura-Asti A
+SFM6,FER6,SFM_4658/59,Asti,4658/59,1,SFM6 Stura-Asti A
+SFM6,FER6,SFM_4662/63,Asti,4662/63,1,SFM6 Stura-Asti A
+SFM6,FER6,SFM_4666/67,Asti,4666/67,1,SFM6 Stura-Asti A
+SFM6,GIOR,SFM_4600/01,Torino Stura,4600/01,0,SFM6 Stura-Asti R
+SFM6,GIOR,SFM_4604/05,Torino Stura,4604/05,0,SFM6 Stura-Asti R
+SFM6,GIOR,SFM_4608/09,Torino Stura,4608/09,0,SFM6 Stura-Asti R
+SFM6,GIOR,SFM_4612/13,Torino Stura,4612/13,0,SFM6 Stura-Asti R
+SFM6,GIOR,SFM_4616/17,Torino Stura,4616/17,0,SFM6 Stura-Asti R
+SFM6,GIOR,SFM_4620/21,Torino Stura,4620/21,0,SFM6 Stura-Asti R
+SFM6,GIOR,SFM_4624/25,Torino Stura,4624/25,0,SFM6 Stura-Asti R
+SFM6,GIOR,SFM_4628/29,Torino Stura,4628/29,0,SFM6 Stura-Asti R
+SFM6,GIOR,SFM_4640/41,Asti,4640/41,1,SFM6 Stura-Asti A
+SFM6,GIOR,SFM_4644/45,Asti,4644/45,1,SFM6 Stura-Asti A
+SFM6,GIOR,SFM_4648/49,Asti,4648/49,1,SFM6 Stura-Asti A
+SFM6,GIOR,SFM_4652/53,Asti,4652/53,1,SFM6 Stura-Asti A
+SFM6,GIOR,SFM_4656/57,Asti,4656/57,1,SFM6 Stura-Asti A
+SFM6,GIOR,SFM_4660/61,Asti,4660/61,1,SFM6 Stura-Asti A
+SFM6,GIOR,SFM_4664/65,Asti,4664/65,1,SFM6 Stura-Asti A
+SFM6,GIOR,SFM_4668/69,Asti,4668/69,1,SFM6 Stura-Asti A
+SFM7,FER6,SFM_4700/01,Torino Stura,4700/01,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4702/03,Torino Stura,4702/03,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4704/05,Torino Stura,4704/05,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4708/09,Torino Stura,4708/09,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4710/11,Torino Stura,4710/11,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4714/15,Torino Stura,4714/15,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4716/17,Torino Stura,4716/17,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4720/21,Torino Stura,4720/21,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4722/23,Torino Stura,4722/23,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4726/27,Torino Stura,4726/27,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4728/29,Torino Stura,4728/29,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4732/33,Torino Stura,4732/33,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4734/35,Torino Stura,4734/35,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4738/39,Torino Stura,4738/39,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4740/41,Torino Stura,4740/41,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4744/45,Torino Stura,4744/45,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4746/47,Torino Stura,4746/47,0,SFM7 Fossano-Stura A
+SFM7,FER6,SFM_4750/51,Fossano,4750/51,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4752/53,Fossano,4752/53,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4755,Fossano,4755,1,SFM7 Fossano-TorinoPN R
+SFM7,FER6,SFM_4758/59,Fossano,4758/59,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4760/61,Fossano,4760/61,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4764/65,Fossano,4764/65,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4766/67,Fossano,4766/67,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4770/71,Fossano,4770/71,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4772/73,Fossano,4772/73,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4776/77,Fossano,4776/77,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4778/79,Fossano,4778/79,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4782/83,Fossano,4782/83,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4784/85,Fossano,4784/85,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4788/89,Fossano,4788/89,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4790/91,Fossano,4790/91,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4794/95,Fossano,4794/95,1,SFM7 Fossano-Stura R
+SFM7,FER6,SFM_4796/97,Fossano,4796/97,1,SFM7 Fossano-Stura R
+SFM7,FEST,SFM_4706/07,Torino Stura,4706/07,0,SFM7 Fossano-Stura A
+SFM7,FEST,SFM_4712/13,Torino Stura,4712/13,0,SFM7 Fossano-Stura A
+SFM7,FEST,SFM_4718/19,Torino Stura,4718/19,0,SFM7 Fossano-Stura A
+SFM7,FEST,SFM_4724/25,Torino Stura,4724/25,0,SFM7 Fossano-Stura A
+SFM7,FEST,SFM_4730/31,Torino Stura,4730/31,0,SFM7 Fossano-Stura A
+SFM7,FEST,SFM_4736/37,Torino Stura,4736/37,0,SFM7 Fossano-Stura A
+SFM7,FEST,SFM_4742/43,Torino Stura,4742/43,0,SFM7 Fossano-Stura A
+SFM7,FEST,SFM_4756/57,Fossano,4756/57,1,SFM7 Fossano-Stura R
+SFM7,FEST,SFM_4762/63,Fossano,4762/63,1,SFM7 Fossano-Stura R
+SFM7,FEST,SFM_4768/69,Fossano,4768/69,1,SFM7 Fossano-Stura R
+SFM7,FEST,SFM_4774/75,Fossano,4774/75,1,SFM7 Fossano-Stura R
+SFM7,FEST,SFM_4780/81,Fossano,4780/81,1,SFM7 Fossano-Stura R
+SFM7,FEST,SFM_4786/87,Fossano,4786/87,1,SFM7 Fossano-Stura R
+SFM7,FEST,SFM_4792/93,Fossano,4792/93,1,SFM7 Fossano-Stura R
+SFMA,FER5-NA,SFM_37,Germagnano,37,0,SFMA Dora-Germagnano A
+SFMA,FER5-NA,SFM_40,Torino Dora GTT,40,1,SFMA Dora-Germagnano R
+SFMA,FER5-NA,SFM_45,Germagnano,45,0,SFMA Dora-Germagnano A
+SFMA,FER5-NA,SFM_48,Torino Dora GTT,48,1,SFMA Dora-Germagnano R
+SFMA,FER5-NA,SFM_49,Germagnano,49,0,SFMA Dora-Germagnano A
+SFMA,FER5-NA,SFM_52,Torino Dora GTT,52,1,SFMA Dora-Germagnano R
+SFMA,FER5-NA,SFM_53,Germagnano,53,0,SFMA Dora-Germagnano A
+SFMA,FER5-NA,SFM_56,Torino Dora GTT,56,1,SFMA Dora-Germagnano R
+SFMA,FER5-NA,SFM_57,Germagnano,57,0,SFMA Dora-Germagnano A
+SFMA,FER5-NA,SFM_60,Torino Dora GTT,60,1,SFMA Dora-Germagnano R
+SFMA,FER6,SFM_10,Torino Dora GTT,10,1,SFMA Dora-Germagnano R
+SFMA,FER6,SFM_12,Torino Dora GTT,12,1,SFMA Dora-Germagnano R
+SFMA,FER6,SFM_13,Germagnano,13,0,SFMA Dora-Germagnano A
+SFMA,FER6,SFM_15,Cirie',15,0,SFMA Dora-Cirie A
+SFMA,FER6,SFM_16,Torino Dora GTT,16,1,SFMA Dora-Germagnano R
+SFMA,FER6,SFM_25,Germagnano,25,0,SFMA Dora-Germagnano A
+SFMA,FER6,SFM_28,Torino Dora GTT,28,1,SFMA Dora-Cirie R
+SFMA,FER6,SFM_50,Torino Dora GTT,50,1,SFMA Dora-Germagnano R
+SFMA,FER6,SFM_51,Germagnano,51,0,SFMA Dora-Germagnano A
+SFMA,FER6,SFM_7,Germagnano,7,0,SFMA Dora-Germagnano A
+SFMA,FER6,SFM_8,Torino Dora GTT,8,1,SFMA Dora-Germagnano R
+SFMA,FER6,SFM_9,Germagnano,9,0,SFMA Dora-Germagnano A
+SFMA,FER6-NA,SFM_29,Germagnano,29,0,SFMA Dora-Germagnano A
+SFMA,FER6-NA,SFM_32,Torino Dora GTT,32,1,SFMA Dora-Germagnano R
+SFMA,FER6-NA,SFM_33,Germagnano,33,0,SFMA Dora-Germagnano A
+SFMA,FER6-NA,SFM_36,Torino Dora GTT,36,1,SFMA Dora-Germagnano R
+SFMA,FEST,SFM_115F,Germagnano,115,0,SFMA Dora-Germagnano A
+SFMA,FEST,SFM_19F,Germagnano,19,0,SFMA Dora-Germagnano A
+SFMA,FEST,SFM_22F,Torino Dora GTT,22,1,SFMA Dora-Germagnano R
+SFMA,FEST,SFM_23F,Germagnano,23,0,SFMA Dora-Germagnano A
+SFMA,FEST,SFM_26F,Torino Dora GTT,26,1,SFMA Dora-Germagnano R
+SFMA,FEST,SFM_50F,Torino Dora GTT,50,1,SFMA Dora-Germagnano R
+SFMA,FEST,SFM_51F,Germagnano,51,0,SFMA Dora-Germagnano A
+SFMA,FEST,SFM_62F,Torino Dora GTT,62,1,SFMA Dora-Germagnano R
+SFMA,GIOR,SFM_11,Germagnano,11,0,SFMA Dora-Germagnano A
+SFMA,GIOR,SFM_14,Torino Dora GTT,14,1,SFMA Dora-Germagnano R
+SFMA,GIOR,SFM_18,Torino Dora GTT,18,1,SFMA Dora-Germagnano R
+SFMA,GIOR,SFM_27,Germagnano,27,0,SFMA Dora-Germagnano A
+SFMA,GIOR,SFM_30,Torino Dora GTT,30,1,SFMA Dora-Germagnano R
+SFMA,GIOR,SFM_31,Germagnano,31,0,SFMA Dora-Germagnano A
+SFMA,GIOR,SFM_34,Torino Dora GTT,34,1,SFMA Dora-Germagnano R
+SFMA,GIOR,SFM_35,Germagnano,35,0,SFMA Dora-Germagnano A
+SFMA,GIOR,SFM_38,Torino Dora GTT,38,1,SFMA Dora-Germagnano R
+SFMA,GIOR,SFM_39,Germagnano,39,0,SFMA Dora-Germagnano A
+SFMA,GIOR,SFM_42,Torino Dora GTT,42,1,SFMA Dora-Germagnano R
+SFMA,GIOR,SFM_43,Germagnano,43,0,SFMA Dora-Germagnano A
+SFMA,GIOR,SFM_46,Torino Dora GTT,46,1,SFMA Dora-Germagnano R
+SFMA,GIOR,SFM_47,Germagnano,47,0,SFMA Dora-Germagnano A
+SFMA,GIOR,SFM_54,Torino Dora GTT,54,1,SFMA Dora-Germagnano R
+SFMA,GIOR,SFM_55,Germagnano,55,0,SFMA Dora-Germagnano A
+SFMA,GIOR,SFM_58,Torino Dora GTT,58,1,SFMA Dora-Germagnano R
+SFMA,GIOR,SFM_59,Germagnano,59,0,SFMA Dora-Germagnano A
+SFMA Ceres,FER6-NA,SFM_12C,Germagnano,12,1,SFMA Germagnano-Ceres R
+SFMA Ceres,FER6-NA,SFM_1C,Ceres,1,0,SFMA Germagnano-Ceres A
+SFMA Ceres,FER6-NA,SFM_20C,Germagnano,20,1,SFMA Germagnano-Ceres R
+SFMA Ceres,FER6-NA,SFM_27C,Ceres,27,0,SFMA Germagnano-Ceres A
+SFMA Ceres,FER6-NA,SFM_31C,Ceres,31,0,SFMA Germagnano-Ceres A
+SFMA Ceres,FER6-NA,SFM_35C,Ceres,35,0,SFMA Germagnano-Ceres A
+SFMA Ceres,FER6-NA,SFM_38C,Germagnano,38,1,SFMA Germagnano-Ceres R
+SFMA Ceres,FER6-NA,SFM_42C,Germagnano,42,1,SFMA Germagnano-Ceres R
+SFMA Ceres,FER6-NA,SFM_46C,Germagnano,46,1,SFMA Germagnano-Ceres R
+SFMA Ceres,FER6-NA,SFM_9C,Ceres,9,0,SFMA Germagnano-Ceres A
+SFMA Ceres,FEST-NA,SFM_115CF,Ceres,115,0,SFMA Germagnano-Ceres A
+SFMA Ceres,FEST-NA,SFM_19CF,Ceres,19,0,SFMA Germagnano-Ceres A
+SFMA Ceres,FEST-NA,SFM_26CF,Germagnano,26,1,SFMA Germagnano-Ceres R
+SFMA Ceres,FEST-NA,SFM_30CF,Germagnano,30,1,SFMA Germagnano-Ceres R
+SFMA Ceres,FEST-NA,SFM_47CF,Ceres,47,0,SFMA Germagnano-Ceres A
+SFMA Ceres,FEST-NA,SFM_51CF,Ceres,51,0,SFMA Germagnano-Ceres A
+SFMA Ceres,FEST-NA,SFM_58CF,Germagnano,58,1,SFMA Germagnano-Ceres R
+SFMA Ceres,FEST-NA,SFM_62CF,Germagnano,62,1,SFMA Germagnano-Ceres R
+SFMB,FER5-A,SFM_4366,Alba,4366,1,SFMB Alba-Bra R
+SFMB,FER5-A,SFM_4367,Bra,4367,0,SFMB Alba-Bra A
+SFMB,FER5-A,SFM_4383,Bra,4383,0,SFMB Alba-Bra A
+SFMB,FER5-A,SFM_4392,Alba,4392,1,SFMB Alba-Bra R
+SFMB,FER6,SFM_4364,Alba,4364,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,FER6,SFM_4369,Cavallermaggiore,4369,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,FER6,SFM_4370,Alba,4370,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,FER6,SFM_4373,Cavallermaggiore,4373,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,FER6,SFM_4374,Alba,4374,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,FER6,SFM_4377,Cavallermaggiore,4377,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,FER6,SFM_4378,Alba,4378,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,FER6,SFM_4380,Alba,4380,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,FER6,SFM_4381,Cavallermaggiore,4381,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,FER6,SFM_4382,Alba,4382,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,FER6,SFM_4386,Alba,4386,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,FER6,SFM_4387,Cavallermaggiore,4387,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,FER6,SFM_4390,Alba,4390,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,FER6,SFM_4391,Cavallermaggiore,4391,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,FER6,SFM_4395,Cavallermaggiore,4395,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,FER6,SFM_4396,Alba,4396,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,FEST,SFM_4398,Alba,4398,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,GIOR,SFM_4365,Cavallermaggiore,4365,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,GIOR,SFM_4368,Alba,4368,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,GIOR,SFM_4371,Cavallermaggiore,4371,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,GIOR,SFM_4372,Alba,4372,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,GIOR,SFM_4375,Cavallermaggiore,4375,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,GIOR,SFM_4376,Alba,4376,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,GIOR,SFM_4379,Cavallermaggiore,4379,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,GIOR,SFM_4384,Alba,4384,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,GIOR,SFM_4385,Cavallermaggiore,4385,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,GIOR,SFM_4388,Alba,4388,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,GIOR,SFM_4389,Cavallermaggiore,4389,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,GIOR,SFM_4393,Cavallermaggiore,4393,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB,GIOR,SFM_4394,Alba,4394,1,SFMB Alba-Bra-Cavallermaggiore R
+SFMB,GIOR,SFM_4397,Cavallermaggiore,4397,0,SFMB Alba-Bra-Cavallermaggiore A
+SFMB Bus,FER6,sfm_RP601,Cavallermaggiore,RP601,0,Bus Alba-Bra-Cavallermaggiore A
+SFMB Bus,FER6,sfm_RP650,Alba,RP650,1,Bus Alba-Bra-Cavallermaggiore R
+SFMB Bus,FER6,sfm_RP651,Bra,RP651,0,Bus Alba-Bra A
+SFMB Bus,FER6,sfm_RP656,Alba,RP656,1,Bus Alba-Bra R

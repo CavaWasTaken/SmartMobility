@@ -1,0 +1,3 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+GTT_F,GTT,http://www.sfmtorino.it,Europe/Rome,it,800-019152, 
+FS,TRENITALIA,http://www.sfmtorino.it,Europe/Rome,it, , 
